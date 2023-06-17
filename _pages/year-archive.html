@@ -1,19 +1,16 @@
 ---
 layout: archive
 permalink: /year-archive/
-title: "Blog posts"
+title: "Posts"
 author_profile: true
 redirect_from:
   - /wordpress/blog-posts/
 ---
 
 {% include base_path %}
-{% capture written_year %}'None'{% endcapture %}
-{% for post in site.posts %}
-  {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
-  {% if year != written_year %}
-    <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
-    {% capture written_year %}{{ year }}{% endcapture %}
-  {% endif %}
-  {% include archive-single.html %}
-{% endfor %}
+
+<font size="+2"><a href="https://medium.com/illuin/lepetit-a-pre-training-efficient-and-lightning-fast-french-language-model-96495ad726b3" style="color: black; text-decoration: None" onmouseover="style='color: black; text-decoration:underline'" onmouseout="style='color: black; text-decoration:none'">LePetit: A pre-training efficient and lightning fast French Language Model</a></font><br>
+July 2020<br><br>
+
+<font size="+2"><a href="https://medium.com/illuin/deep-learning-has-almost-all-the-answers-yes-no-question-answering-with-transformers-223bebb70189" style="color: black; text-decoration: None" onmouseover="style='color: black; text-decoration:underline'" onmouseout="style='color: black; text-decoration:none'">Deep Learning has (almost) all the answers: Yes/No Question Answering with Transformers</a></font><br>
+March 2020
