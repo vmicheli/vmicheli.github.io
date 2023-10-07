@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-<font size="+2"><a href="https://arxiv.org/abs/2209.00588" style="color: black; text-decoration: None" onmouseover="style='color: black; text-decoration:underline'" onmouseout="style='color: black; text-decoration:none'">Transformers are Sample Efficient World Models</a></font>  
+<font size="+2"><a href="https://arxiv.org/abs/2209.00588" style="color: black; text-decoration: None" onmouseover="style='color: black; text-decoration:underline'" onmouseout="style='color: black; text-decoration:none'">Transformers are Sample-Efficient World Models</a></font>  
 Vincent Micheli, Eloi Alonso, François Fleuret  
 *ICLR 2023 (**Oral**), NeurIPS Deep RL Workshop 2022 (**Best paper award**)*  
 <a href="https://github.com/eloialonso/iris" style="text-decoration:None" onmouseover="style=' text-decoration:underline'" onmouseout="style='text-decoration:none'">Code</a> <a href="https://twitter.com/hardmaru/status/1565569808548376576" style="text-decoration:None" onmouseover="style=' text-decoration:underline'" onmouseout="style='text-decoration:none'">Hardmaru's tweet</a>
