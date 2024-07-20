@@ -1,8 +1,8 @@
----
+<!-- ---
 layout: archive
 title: "Selected Papers"
 permalink: /papers/
-author_profile: true
+author_profile: false
 ---
 
 {% include base_path %}
@@ -27,4 +27,4 @@ Vincent Micheli, Martin d'Hoffschmidt, François Fleuret
 
 <font size="+2"><a href="https://arxiv.org/abs/2002.03240" style="color: black; text-decoration: None" onmouseover="style='color: black; text-decoration:underline'" onmouseout="style='color: black; text-decoration:none'">Multi-task Reinforcement Learning with a Planning Quasi-Metric</a></font>  
 Vincent Micheli, Karthigan Sinnathamby, François Fleuret  
-*NeurIPS Deep RL Workshop 2020*  
+*NeurIPS Deep RL Workshop 2020*   -->

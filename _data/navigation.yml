@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "Papers"
-    url: /papers/   
+  # - title: "Papers"
+  #   url: /papers/   
 
-  - title: "Posts"
-    url: /year-archive/
+  # - title: "Posts"
+  #   url: /year-archive/
