@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Vincent Micheli"
 title_separator          : "-"
 name                     : &name "Vincent Micheli"
-description              : &description "PhD candidate at the University of Geneva. Working on World Models for Decision Making."
+description              : &description "Co-founder of General Intuition. Building the next frontier of embodied intelligence."
 url                      : https://vmicheli.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "vmicheli/vmicheli.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Vincent Micheli"
   avatar           : "profilepic.jpeg"
-  bio              : "PhD student at the University of Geneva.<br>Working on World Models for Decision Making."
+  bio              : "Co-founder of General Intuition.<br>Building the next frontier of embodied intelligence."
   # location         : "Location"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=Dx7fMZ4AAAAJ"
-  email            : "vincent.micheli@unige.ch"
+  email            : "vincent@generalintuition.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
